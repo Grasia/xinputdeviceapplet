@@ -1,0 +1,7 @@
+{
+    "uuid": "xinputdevice@jpavon",
+    "name": "Xinput devices control",
+    "description": "Switch on/off pointer devices with xinput",
+    "version": "0.1"
+}
+
